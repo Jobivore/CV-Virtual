@@ -1,3 +1,29 @@
+body {
+  background-color: #4f35e2;
+  color: #333;
+}
+
+header {
+  background-color: #2dc408;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 0;
+}
+
 .section {
   padding: 20px;
+}
+
+.section-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section h2,
+#intro {
+  color: #ffffff;
+  margin-bottom: 10px;
+  text-align: center;
 }
